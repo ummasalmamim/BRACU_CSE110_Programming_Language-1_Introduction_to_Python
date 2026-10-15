@@ -57,7 +57,7 @@ For the official course description, objectives, and outcomes, see the [course p
 
 | Notebook | Description |
 | -------- | ----------- |
-| — | [For Loop](For_loop.ipynb) | Additional `for` loop exercises |
+| [For Loop](For_loop.ipynb) | Additional `for` loop exercises |
 | [Class Lecture (MSI)](Class_Lecture_%28MSI%29.ipynb) | Notes from class lectures |
 | [CSE110 Lab Class Work](CSE110_Lab_Class_Work_Umma_Salma_Mim.ipynb) | Exercises completed during lab classes |
 | [Lab Mid](Lab_Mid_.ipynb) | Lab mid-term material |
