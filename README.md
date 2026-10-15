@@ -52,12 +52,12 @@ For the official course description, objectives, and outcomes, see the [course p
 | 05 | [List](05.%20List_Umma_Salma_Mim_CSE110.ipynb.ipynb) | Creating, accessing, and modifying lists |
 | 06 | [Tuple and Dictionary](06.%20Tuple_and_Dictionary_Umma_Salma_Mim_CSE110.ipynb) | Tuples, dictionaries, and key–value operations |
 | 07 | [Sorting](07.%20Sorting_Umma_Salma_Mim_CSE110.ipynb) | Sorting techniques |
-| — | [For Loop](For_loop.ipynb) | Additional `for` loop exercises |
 
 ### Lectures, Labs, and Exam Preparation
 
 | Notebook | Description |
 | -------- | ----------- |
+| — | [For Loop](For_loop.ipynb) | Additional `for` loop exercises |
 | [Class Lecture (MSI)](Class_Lecture_%28MSI%29.ipynb) | Notes from class lectures |
 | [CSE110 Lab Class Work](CSE110_Lab_Class_Work_Umma_Salma_Mim.ipynb) | Exercises completed during lab classes |
 | [Lab Mid](Lab_Mid_.ipynb) | Lab mid-term material |
