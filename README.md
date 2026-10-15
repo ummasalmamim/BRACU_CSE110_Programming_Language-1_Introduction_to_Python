@@ -111,7 +111,7 @@ This repository is shared for learning and reference purposes only. Students cur
 
 ## Acknowledgements
 
-- The faculty members of the Department of Computer Science and Engineering, BRAC University, for course instruction and material.
+- The faculty (Saiful Islam) member of the Department of Computer Science and Engineering, BRAC University, for course instruction and material.
 - [CSE110 course page](https://cse.bracu.ac.bd/course/view/CSE110) for the course description and outcomes.
 
 ---
